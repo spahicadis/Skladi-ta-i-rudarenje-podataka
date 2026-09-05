@@ -1,0 +1,14 @@
+{
+  "axis-q3517": {
+    "name": "Ulaz u grad",
+    "device": "Axis Q3517",
+    "street": "Mlinska ulica",
+    "house_number": "43",
+    "city": "Novigrad",
+    "postal_code": "52466",
+    "county": "Istarska županija",
+    "country": "HR",
+    "lat": 45.316039,
+    "lon": 13.562672
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "model": "qwen/qwen3-vl-8b",
+    "schema_v": 3,
+    "prompt_v": 3,
+    "valid_from": "2026-08-20T21:26:12+02:00"
+  },
+  {
+    "model": "qwen/qwen3-vl-8b",
+    "schema_v": 4,
+    "prompt_v": 4,
+    "valid_from": "2026-08-27T11:46:00+02:00"
+  }
+]

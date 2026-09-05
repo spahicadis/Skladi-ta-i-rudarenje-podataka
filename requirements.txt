@@ -1,0 +1,7 @@
+# Python 3.14.6
+# Za Apache Spark potreban je JDK 17 (novije inačice nisu podržane).
+
+pandas==3.0.5
+sqlalchemy==2.0.52
+psycopg[binary]==3.3.5
+pyspark==3.5.9
